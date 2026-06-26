@@ -401,7 +401,7 @@ No external animation libraries are used.
 
 ## Developer
 
-Parminder Singh
+Ravneet Kaur
 
 ---
 
